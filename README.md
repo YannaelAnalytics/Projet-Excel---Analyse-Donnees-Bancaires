@@ -1,4 +1,4 @@
-# Projet Excel : Analyse de la base Clients d'une banque ligne fictive, Primero Bank
+# Projet Excel : Analyse de la base Clients d'une banque en ligne fictive, Primero Bank
 
 La banque est inquiète car elle fait face à de nombreux départs de clients. Il faut envisager un plan d’action pour éviter d’autres vagues de départs. 
 
