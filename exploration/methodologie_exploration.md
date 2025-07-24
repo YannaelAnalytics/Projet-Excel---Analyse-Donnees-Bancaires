@@ -46,12 +46,9 @@ Ces variables ont été explorées, mais **ne présentent pas d’écart signifi
 - **Genre** : répartition similaire hommes/femmes
 - **Statut marital** : les mariés sont plus nombreux parmi les clients partis, mais aussi dans la base totale → **corrélation peu fiable**
 - **Nombre de personnes à charge** : peu d’écarts significatifs
-- **Niveau de satisfaction** : les variations sont trop faibles pour être interprétées seules
 
 👉 Ces variables **n’ont pas été retenues dans la segmentation finale**, sauf si croisées avec d’autres.
 
 ---
 
-## 📁 Fichier : `exploration/Projet 2 données banque - Fichier de travail.xlsx`
-
-Ce fichier Excel est une preuve de travail exploratoire rigoureux avant toute modélisation ou analyse plus poussée.
+## 📁 Fichier : `exploration/Projet PrimeroBank - Fichier de travail.xlsx`
