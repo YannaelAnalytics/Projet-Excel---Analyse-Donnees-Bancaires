@@ -48,7 +48,3 @@ Ces variables ont été explorées, mais **ne présentent pas d’écart signifi
 - **Nombre de personnes à charge** : peu d’écarts significatifs
 
 👉 Ces variables **n’ont pas été retenues dans la segmentation finale**, sauf si croisées avec d’autres.
-
----
-
-## 📁 Fichier : `exploration/Projet PrimeroBank - Fichier de travail.xlsx`
