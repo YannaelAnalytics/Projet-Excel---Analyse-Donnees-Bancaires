@@ -51,4 +51,6 @@ Ces variables ont été explorées, mais **ne présentent pas d’écart signifi
 
 👉 Ces variables **n’ont pas été retenues dans la segmentation finale**. 
 
-**RESULTAT** : **188 clients actuels ont été identifiés comme proche de quitter la banque** sur la base du profilage des clients partis.
+---
+
+🎯 **RESULTATS** : **188 clients actuels ont été identifiés comme proche de quitter la banque** sur la base du profilage des clients partis.
