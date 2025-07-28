@@ -43,8 +43,10 @@ L’objectif est d’identifier des variables discriminantes pour comprendre les
 
 Ces variables ont été explorées, mais **ne présentent pas d’écart significatif** entre les clients partis et restants, ou les écarts observés **ne justifient pas une segmentation stratégique** :
 
-- **Genre** : répartition similaire hommes/femmes
-- **Statut marital** : les mariés sont plus nombreux parmi les clients partis, mais aussi dans la base totale → **corrélation peu fiable**
-- **Nombre de personnes à charge** : peu d’écarts significatifs
+- **Genre** : répartition similaire hommes/femmes.
+- **Statut marital** : les mariés sont plus nombreux parmi les clients partis, mais aussi dans la base totale → **corrélation peu fiable**.
+- **Nombre de personnes à charge** : peu d’écarts significatifs.
+- **Niveau d'études** : même proportions peu importe le type de client (actuel ou sortant).
+- **Âge** : répartition uniforme des tranches d'âge don pas de distinction sur cette variable.
 
 👉 Ces variables **n’ont pas été retenues dans la segmentation finale**, sauf si croisées avec d’autres.
